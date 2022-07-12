@@ -82,11 +82,11 @@ Développeur autodidacte, avec 14 ans d'expérience en programmation/devops dont
 
 ##### Autres domaines
 - Électrotechnique : machines (a/synchrone, continue), distribution, ...
-- Automatisme : robots poly-articulés (Fanuc, Kuka), CNC MCM (interfaces Siemens, Pilz et Fanuc)
+- Automatisme : robots polyarticulés (Fanuc, Kuka), CNC MCM (interfaces Siemens, Pilz et Fanuc)
 - Mécanique industrielle : métrologie (mesure et réglage), systèmes complexes, maintenance préventive
 
 #### Secteurs d'activité
-- Industries aéronautique, automobile, pharmaceutique et metallurigique
+- Industries aéronautique, automobile, pharmaceutique et métallurgique
 - Travaux publics (tunnels) et secteur privé (fibre optique et bétonnage)
 - Bancaire
 - Logistique
