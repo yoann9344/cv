@@ -100,10 +100,15 @@ Développeur autodidacte, avec 14 ans d'expérience en programmation/devops dont
 
 
 Site web :
+
 https://guillard.dev/
 
+
 Réseaux sociaux :
+
 www.linkedin.com/in/yoann-guillard
+https://github.com/yoann9344
+
 
 Yoann Guillard
 +33 6 49 39 59 27
