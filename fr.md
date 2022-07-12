@@ -1,8 +1,5 @@
 # Informatique / Industrie / Manutention
 
-Développeur autodidacte, avec 14 ans d'expérience en programmation/devops dont 3 années professionnelles.
-
-
 ## Missions
 ### Informatique
 #### Développer une API pour l'éligibilité et la commande de fibre optique
